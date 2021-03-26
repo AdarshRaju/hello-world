@@ -1,2 +1,4 @@
 # hello-world
-Mastering basics first
+Hello Everyone,
+
+I love coding and problem solving!
